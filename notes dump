@@ -1,0 +1,97 @@
+#image-QaAm2Bsxe:hover, 
+#image-lBrzNOS9o:hover, 
+#image-na07cbkqL:hover, 
+#image-0LAk0clJA:hover, 
+#sub-heading-O94q1Y_xR:hover,
+#sub-heading-lwDF3uimI:hover,
+#sub-heading-R2CbHEOgR:hover,
+#sub-heading-tEFosoauI:hover { margin-top: -5px; }
+
+a,.fade,input,textarea { -webkit-transition: all .2s linear; -o-transition: all .2s linear; -moz-transition: all .2s linear; transition: all .2s linear; }
+
+#image-QaAm2Bsxe:hover, 
+#image-lBrzNOS9o:hover, 
+#image-na07cbkqL:hover, 
+#image-0LAk0clJA:hover { 
+	margin-top: -5px; 
+}
+
+a,.fade,input,textarea { 
+	-webkit-transition: all .2s linear; 
+	-o-transition: all .2s linear; 
+	-moz-transition: all .2s linear; 
+	transition: all .2s linear; 
+}
+
+
+
+
+
+.transition{
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    transition: all .2s linear;
+}
+
+/* kev code start */
+#image-QaAm2Bsxe:hover, 
+#image-lBrzNOS9o:hover, 
+#image-na07cbkqL:hover, 
+#image-0LAk0clJA:hover {
+    box-shadow:0px 0px 15px 0px black;
+    margin-top: -10px; 
+}
+
+
+
+
+/* kev code end */
+
+<img alt="" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F97066a65-26bc-4f4f-96ab-e640cb3fb3a0.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F97066a65-26bc-4f4f-96ab-e640cb3fb3a0.png?alt=media">
+
+<img alt="" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F89f6a68a-54f2-4ab9-83c9-224339dce739.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F89f6a68a-54f2-4ab9-83c9-224339dce739.png?alt=media">
+
+<img alt="" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff60d1446-dff8-49bb-b804-f9ef24f83f3a.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff60d1446-dff8-49bb-b804-f9ef24f83f3a.png?alt=media">
+
+<img alt="" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F42e42c4a-17cc-4cd3-bd26-2542ad0ffd12.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F42e42c4a-17cc-4cd3-bd26-2542ad0ffd12.png?alt=media">
+
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F97066a65-26bc-4f4f-96ab-e640cb3fb3a0.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F89f6a68a-54f2-4ab9-83c9-224339dce739.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff60d1446-dff8-49bb-b804-f9ef24f83f3a.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F42e42c4a-17cc-4cd3-bd26-2542ad0ffd12.png?alt=media"]:hover
+
+
+other images: 
+<img alt="Brand Logo" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fe9854fce-acec-46eb-9547-807eab9d1041.png?alt=media" width="110" height="100" loading="lazy" class="lazyload noBorder radius0 none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fe9854fce-acec-46eb-9547-807eab9d1041.png?alt=media">
+
+<img alt="Coin Stacks" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fda1a8670-6ef0-47c0-aa90-2e8c7df4c67f.png?alt=media" width="40" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fda1a8670-6ef0-47c0-aa90-2e8c7df4c67f.png?alt=media">
+
+<img alt="Man Giving Presentation" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F15d0bede-bb4d-4b3f-96b7-cf1ff7332e3b.png?alt=media" width="250" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F15d0bede-bb4d-4b3f-96b7-cf1ff7332e3b.png?alt=media">
+
+<img alt="Funnel Money" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F7c276ae6-76ce-4084-90b6-dee2d0a914c8.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F7c276ae6-76ce-4084-90b6-dee2d0a914c8.png?alt=media">
+
+<img alt="Three Coins" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F543dc86f-264e-41ee-a641-c9bd0cb0b72d.png?alt=media" width="50" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F543dc86f-264e-41ee-a641-c9bd0cb0b72d.png?alt=media">
+
+<img alt="Location Icon" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F555f5a14-3150-40cd-8878-be0639074437.png?alt=media" width="20" height="auto" loading="lazy" class="lazyload feature-cols-80-20 feature-img-left img-shadow-none img-round-corners img-border-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F555f5a14-3150-40cd-8878-be0639074437.png?alt=media">
+
+
+<img alt="Megaphone on Screen" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fc708cf51-4cc2-49ec-85dc-13826404654b.png?alt=media" width="20" height="auto" loading="lazy" class="lazyload feature-cols-80-20 feature-img-left img-shadow-none img-round-corners img-border-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fc708cf51-4cc2-49ec-85dc-13826404654b.png?alt=media">
+
+<img alt="Three Blue Bars" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F082edba8-2f45-49e1-a018-0d81956afc6a.png?alt=media" width="20" height="auto" loading="lazy" class="lazyload feature-cols-80-20 feature-img-left img-shadow-none img-round-corners img-border-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F082edba8-2f45-49e1-a018-0d81956afc6a.png?alt=media">
+
+<img alt="Facebook Icon" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F8ce399f2-0897-461a-9de3-1e602bcad3d8.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F8ce399f2-0897-461a-9de3-1e602bcad3d8.png?alt=media">
+
+<img alt="Instagram Icon" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff2c31538-a746-4495-8410-709c1d25e467.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff2c31538-a746-4495-8410-709c1d25e467.png?alt=media">
+
+<img alt="Google Icon" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fb878ba5c-3e8b-4f74-9bee-3bbd0f1e8277.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fb878ba5c-3e8b-4f74-9bee-3bbd0f1e8277.png?alt=media">
+
+<img alt="Monitor Screen" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fa9509892-1d69-4359-b6b2-34e7e28526d7.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Fa9509892-1d69-4359-b6b2-34e7e28526d7.png?alt=media">
+
+<img alt="Social Media Management" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F86a57d84-dedd-4245-8c65-3372391e2b07.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F86a57d84-dedd-4245-8c65-3372391e2b07.png?alt=media">
+
+<img alt="Ecosystem Development" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F7f907e9f-ea76-4475-a231-f5664a6d1533.png?alt=media" width="100" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F7f907e9f-ea76-4475-a231-f5664a6d1533.png?alt=media">
+
+<img alt="People Building Webpage" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F610ce88e-6228-414d-b651-265d6aea5e8f.png?alt=media" width="300" height="auto" loading="lazy" class="lazyload img-none img-border-none img-shadow-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F610ce88e-6228-414d-b651-265d6aea5e8f.png?alt=media">
+
+<img alt="Bullseye" data-src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff0c2a7e5-e5f9-4bb0-8b6d-e1378bc8256f.png?alt=media" width="40" height="auto" loading="lazy" class="lazyload feature-cols-80-20 feature-img-left img-shadow-none img-round-corners img-border-none img-effects-none" data-v-61c93fd5="" src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2Ff0c2a7e5-e5f9-4bb0-8b6d-e1378bc8256f.png?alt=media">

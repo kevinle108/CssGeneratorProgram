@@ -1,0 +1,4 @@
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F15d0bede-bb4d-4b3f-96b7-cf1ff7332e3b.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F610ce88e-6228-414d-b651-265d6aea5e8f.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F15d0bede-bb4d-4b3f-96b7-cf1ff7332e3b.png?alt=media"]:hover,
+img[src="https://cdn.msgsndr.com/location%2FSH3wQavltVSf6qpRUfx3%2Fimages%2F610ce88e-6228-414d-b651-265d6aea5e8f.png?alt=media"]:hover
